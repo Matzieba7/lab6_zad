@@ -5,11 +5,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ToreadApi.Models;
+using ToreadApi.Attributes;
+
 
 namespace ToreadApi.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]    
+    [ApiController]
+    [ApiKey]
     public class ToreadItemsController : ControllerBase
     {
         private readonly ToreadContext _context;
