@@ -133,3 +133,4 @@ D:\WSEI\Asp.net\Solucja6 zad\ToreadApi\TodoApiSecured\obj\Debug\net5.0\ToreadApi
 D:\WSEI\Asp.net\Solucja6 zad\ToreadApi\TodoApiSecured\obj\Debug\net5.0\ref\ToreadApi.dll
 D:\WSEI\Asp.net\Solucja6 zad\ToreadApi\TodoApiSecured\obj\Debug\net5.0\ToreadApi.pdb
 D:\WSEI\Asp.net\Solucja6 zad\ToreadApi\TodoApiSecured\obj\Debug\net5.0\ToreadApi.genruntimeconfig.cache
+D:\WSEI\Asp.net\Solucja6 zad\ToreadApi\TodoApiSecured\obj\Debug\net5.0\ToreadApi.csproj.AssemblyReference.cache

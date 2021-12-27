@@ -25,7 +25,7 @@ namespace ToreadApi.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<bool>("IsComplete")
+                    b.Property<bool>("IsRead")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")

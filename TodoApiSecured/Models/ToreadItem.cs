@@ -16,6 +16,6 @@ namespace ToreadApi.Models
         
         [Required]
         [Column(TypeName = "bit")]
-        public bool IsComplete { get; set; }
+        public bool IsRead { get; set; }
     }
 }
