@@ -7457,11 +7457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\ReadMvc\\ReadMvc.csproj",
+      "projectUniqueName": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\ReadMvc\\ReadMvc.csproj",
       "projectName": "ReadMvc",
-      "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\ReadMvc\\ReadMvc.csproj",
+      "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\ReadMvc\\ReadMvc.csproj",
       "packagesPath": "C:\\Users\\matzi\\.nuget\\packages\\",
-      "outputPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\ReadMvc\\obj\\",
+      "outputPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\ReadMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7478,8 +7478,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj": {
-              "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj"
+            "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj": {
+              "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj"
             }
           }
         }

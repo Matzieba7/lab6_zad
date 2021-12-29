@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "poBbNN1i84MRcFZz6YmyqQJRZkJb5n++EGx0ZWxEt0ce5QdjhX5upOuEBIXeQMfU1JAKMHATri+CYsYkugX4QQ==",
+  "dgSpecHash": "TzzAYt5ps8f9SewFFrHHjG3ePOzNLf8GWS/6GdKi28oGQyrVGHyNZhCyvmgNxhH1fbMyUbLhmsJ5BCM4n1wdLQ==",
   "success": true,
-  "projectFilePath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj",
+  "projectFilePath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matzi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\matzi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj": {}
+    "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj": {}
   },
   "projects": {
-    "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj": {
+    "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj",
+        "projectUniqueName": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj",
         "projectName": "ToreadApi",
-        "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\ToreadApi.csproj",
+        "projectPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\ToreadApi.csproj",
         "packagesPath": "C:\\Users\\matzi\\.nuget\\packages\\",
-        "outputPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\TodoApiSecured\\obj\\",
+        "outputPath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\TodoApiSecured\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJHwpKWbbXl35tCGoVZYX5A3/yToa+K6fQOPmZzIYRr9K9C/267CL14o0ArGgIyjeDmfAW6c9oVvHVs02+NABA==",
+  "dgSpecHash": "eXxt4sR7l37IYNvZ8KAaAjuOvc+PLEoDgG1UgM6i/CpoJsuJaFSKsBCRxDxj7bYMjl/7tKI/3X5Z7LeR1CnOQQ==",
   "success": true,
-  "projectFilePath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToreadApi\\ReadMvc\\ReadMvc.csproj",
+  "projectFilePath": "D:\\WSEI\\Asp.net\\Solucja6 zad\\ToReadApi\\ReadMvc\\ReadMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matzi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\matzi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
